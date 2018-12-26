@@ -1,0 +1,1 @@
+S:\Unity\jump\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
